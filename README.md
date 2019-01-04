@@ -9,7 +9,6 @@
 - Носители информации: магнитные, оптические и на основе флеш-памяти, RAID
 - [Архитектура фон Неймана и её альтернативы](https://github.com/DespairedController/computer-architecture/blob/master/2_1/2_1.pdf)
 - [Архитектура набора команд (ISA) и микроархитектура](https://github.com/DespairedController/computer-architecture/blob/master/2_2/2_2.pdf)
-- Конвейерная архитектура, конвейер MIPS
-- Проблемы конвейера (hazards) и пути их решения.
+- [Конвейерная архитектура, конвейер MIPS. Проблемы конвейера (hazards) и пути их решения](https://github.com/DespairedController/computer-architecture/blob/master/2_3-4/2_3-4.pdf)
 - Суперскалярная и VLIW архитектуры.
 - Процессоры: общего назначения/потоковые, ядра/многопроцессорные системы, одновременная многопоточность (SMT, HT)    
