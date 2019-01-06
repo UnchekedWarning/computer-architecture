@@ -22,7 +22,7 @@
 \pagestyle{fancy}
 \fancyhf{}
 \lhead{Билет № 1.2}
-\chead{Оперативная память:\\характеристики, типы динамической памяти.}
+\chead{Оперативная память:\\характеристики, типы динамической памяти. NUMA, UMA}
 \rhead{\thepage}
 \lfoot{made with Ы}
 \cfoot{}
@@ -179,6 +179,27 @@ GDDR5x\\
     \caption{Технология HBM в разрезе}
     \label{fig:HBM}
 \end{figure}
+\section{Доступ к памяти}
+\subsection{NUMA}
+\textbf{NUMA} (\textit(Not-Uniform Memory Access)) - архитектура с неоднородным доступом к памяти. Т.е. не ко всем блокам памяти обращаемся за одинаковое время.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.4]{./images/2CPUNUMA.png}
+    \caption{Двухпроцессорная NUMA}
+    \label{fig:NUMA}
+\end{figure}
+Преимущества: лучше масштабируется, можем разместить больше блоков памяти. Больше каналов к памяти, следовательно выше параллельность запросов.\\
+Недостатки: программы будут замедляться, если треды будут обращаться к "неблизкой" памяти.
+\subsection{UMA}
+\textbf{UMA} (\textit(Uniform Memory Access)) - архитектура с однородным доступом к памяти. Т.е. ко всем блокам памяти обращаемся за одинаковое время.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.4]{./images/2CoreUMA.png}
+    \caption{Однопроцессорная двухъядерная UMA}
+    \label{fig:UMA}
+\end{figure}
+Преимущества: в теории не можем проиграть с тем, что нужные данные лежат не в ближней памяти.\\
+Недостатки: на практике сложно масштабировать, канал к памяти - ботлнек.
 \section{Источники}
 \begin{itemize}
     \item Википедия
