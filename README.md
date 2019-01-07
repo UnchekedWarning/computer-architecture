@@ -11,4 +11,4 @@
 - [Архитектура набора команд (ISA) и микроархитектура](https://github.com/DespairedController/computer-architecture/blob/master/2_2/2_2.pdf)
 - [Конвейерная архитектура, конвейер MIPS. Проблемы конвейера (hazards) и пути их решения](https://github.com/DespairedController/computer-architecture/blob/master/2_3-4/2_3-4.pdf)
 - [Суперскалярная и VLIW архитектуры](https://github.com/DespairedController/computer-architecture/blob/master/2_5/2_5.pdf)
-- Процессоры: общего назначения/потоковые, ядра/многопроцессорные системы, одновременная многопоточность (SMT, HT)    
+- [Процессоры: общего назначения/потоковые, ядра/многопроцессорные системы, одновременная многопоточность (SMT, HT)](https://github.com/DespairedController/computer-architecture/blob/master/2_6/2_6.pdf)
