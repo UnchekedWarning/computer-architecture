@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.2)  5 JAN 2019 23:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.2)  7 JAN 2019 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**1_4.tex
+**1_4
 (./1_4.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
@@ -1182,7 +1182,12 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-))) (./1_4.aux)
+))) (./1_4.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 20.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
 \openout1 = `1_4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -1198,11 +1203,6 @@ LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 37.
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 37.
-
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
 LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
@@ -1308,7 +1308,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
-<./images/CACHElevels.png, id=7, 201.75375pt x 522.95375pt>
+<./images/CACHElevels.png, id=91, 201.75375pt x 522.95375pt>
 File: ./images/CACHElevels.png Graphic file (type png)
 <use ./images/CACHElevels.png>
 Package pdftex.def Info: ./images/CACHElevels.png  used on input line 49.
@@ -1347,7 +1347,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language append on input line 62.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language append on input line 62.
-<images/LookAside.png, id=23, 362.35374pt x 161.60374pt>
+<images/LookAside.png, id=104, 362.35374pt x 161.60374pt>
 File: images/LookAside.png Graphic file (type png)
 <use images/LookAside.png>
 Package pdftex.def Info: images/LookAside.png  used on input line 66.
@@ -1356,7 +1356,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language append on input line 71.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language append on input line 71.
-<images/LookThrough.png, id=24, 362.35374pt x 81.30376pt>
+<images/LookThrough.png, id=105, 362.35374pt x 81.30376pt>
 File: images/LookThrough.png Graphic file (type png)
 <use images/LookThrough.png>
 Package pdftex.def Info: images/LookThrough.png  used on input line 75.
@@ -1402,7 +1402,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language append on input line 91.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language append on input line 91.
-<./images/Core.png, id=41, 888.31876pt x 554.07pt>
+<./images/Core.png, id=115, 888.31876pt x 554.07pt>
 File: ./images/Core.png Graphic file (type png)
 <use ./images/Core.png>
 Package pdftex.def Info: ./images/Core.png  used on input line 95.
@@ -1411,7 +1411,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language append on input line 100.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language append on input line 100.
-<./images/lineADDR.png, id=42, 511.9125pt x 92.345pt>
+<./images/lineADDR.png, id=116, 511.9125pt x 92.345pt>
 File: ./images/lineADDR.png Graphic file (type png)
 <use ./images/lineADDR.png>
 Package pdftex.def Info: ./images/lineADDR.png  used on input line 105.
@@ -1493,21 +1493,18 @@ Package rerunfilecheck Warning: File `1_4.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `1_4.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  2376B23EC111AE94BCB8B1599F70D446;3533.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Before: 2376B23EC111AE94BCB8B1599F70D446;3533
+(rerunfilecheck)             After:  D9313080FE77ED14F4AF0A93BA57B1F7;3533.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
  ) 
 Here is how much of TeX's memory you used:
- 21705 strings out of 492982
- 370153 string characters out of 6134897
- 430055 words of memory out of 5000000
- 24889 multiletter control sequences out of 15000+600000
+ 21728 strings out of 492982
+ 370474 string characters out of 6134897
+ 430408 words of memory out of 5000000
+ 24912 multiletter control sequences out of 15000+600000
  13261 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,54p,782b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,11n,54p,778b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist
@@ -1516,10 +1513,10 @@ type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-sup
 er/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></us
 r/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/
 type1/public/cm-super/sfrm1200.pfb>
-Output written on 1_4.pdf (5 pages, 1267776 bytes).
+Output written on 1_4.pdf (5 pages, 1269089 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
+ 173 PDF objects out of 1000 (max. 8388607)
+ 146 compressed objects within 2 object streams
  32 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
