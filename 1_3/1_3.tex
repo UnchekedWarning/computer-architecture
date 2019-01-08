@@ -75,10 +75,22 @@
 Улучшилась скорость передачи\\
 \textit{Внимание\_0}: эта штука \textbf{асинхронная}.\\
 \textit{Внимание\_1}: адрес столбца должен быть зажат пока не получены данные.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\linewidth]{images/FPM.png}
+    \caption{Упрощенная схема работы FPM}
+    \label{fig:FPM}
+\end{figure}
 \section{EDO DRAM}
 \textbf{EDO DRAM} - \textit{Enabled Data Out DRAM} - а давайте добавим буфер для адреса столбца. Теперь пока читается один столбец, мы можем уже подать адрес следующего, а после получения данных с первого столбца, сигнал на чтение второго.\\
 Улучшилась скорость передачи.\\
 \textit{Внимание}: эта штука всё ещё \textbf{асинхронная}.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\linewidth]{images/EDO.png}
+    \caption{Упрощенная схема работы EDO}
+    \label{fig:EDO}
+\end{figure}
 \section{BEDO DRAM}
 \textbf{BEDO DRAM} - \textit{Burst EDO DRAM} - теперь на запрос чтения столбца память отдаёт не только нужный столбец, но и три следующих. Ограничения: адрес должен быть кратен четырем.\\
 Улучшилась скорость передачи.\\

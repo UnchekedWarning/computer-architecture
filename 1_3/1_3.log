@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.2)  7 JAN 2019 21:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.2)  8 JAN 2019 14:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1372,246 +1372,268 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language append on input line 73.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language append on input line 73.
+<images/FPM.png, id=115, 1242.6425pt x 846.16125pt>
+File: images/FPM.png Graphic file (type png)
+<use images/FPM.png>
+Package pdftex.def Info: images/FPM.png  used on input line 80.
+(pdftex.def)             Requested size: 326.6361pt x 222.41116pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 84.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 84.
+<images/EDO.png, id=116, 1245.65375pt x 742.775pt>
+File: images/EDO.png Graphic file (type png)
+<use images/EDO.png>
+Package pdftex.def Info: images/EDO.png  used on input line 90.
+(pdftex.def)             Requested size: 326.6361pt x 194.77168pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 82.
+(babel)             in language append on input line 94.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 82.
+(babel)             in language append on input line 94.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 94.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 86.
-<./images/SDR_SDRAM.png, id=115, 497.86pt x 163.61125pt>
+(babel)             in language append on input line 94.
+
+[2 <./images/graphic.png> <./images/FPM.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 94.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 94.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 98.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 98.
+<./images/SDR_SDRAM.png, id=126, 497.86pt x 163.61125pt>
 File: ./images/SDR_SDRAM.png Graphic file (type png)
 <use ./images/SDR_SDRAM.png>
-Package pdftex.def Info: ./images/SDR_SDRAM.png  used on input line 95.
+Package pdftex.def Info: ./images/SDR_SDRAM.png  used on input line 107.
 (pdftex.def)             Requested size: 298.71829pt x 98.1675pt.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 99.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 99.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 99.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 99.
 
-[2 <./images/graphic.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 99.
+(babel)             in language append on input line 111.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 99.
+(babel)             in language append on input line 111.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 101.
+(babel)             in language append on input line 113.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 101.
-<./images/MultiportDRAM.png, id=123, 782.925pt x 502.87875pt>
+(babel)             in language append on input line 113.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 113.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 113.
+[3 <./images/EDO.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 113.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 113.
+<./images/MultiportDRAM.png, id=133, 782.925pt x 502.87875pt>
 File: ./images/MultiportDRAM.png Graphic file (type png)
 <use ./images/MultiportDRAM.png>
-Package pdftex.def Info: ./images/MultiportDRAM.png  used on input line 104.
+Package pdftex.def Info: ./images/MultiportDRAM.png  used on input line 116.
 (pdftex.def)             Requested size: 234.8793pt x 150.86478pt.
-<./images/MultiportSRAM.png, id=124, 576.1525pt x 375.4025pt>
+<./images/MultiportSRAM.png, id=134, 576.1525pt x 375.4025pt>
 File: ./images/MultiportSRAM.png Graphic file (type png)
 <use ./images/MultiportSRAM.png>
-Package pdftex.def Info: ./images/MultiportSRAM.png  used on input line 105.
+Package pdftex.def Info: ./images/MultiportSRAM.png  used on input line 117.
 (pdftex.def)             Requested size: 172.84708pt x 112.62161pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 113.
+(babel)             in language append on input line 125.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 113.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 113.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 113.
- [3 <./images/SDR_SDRAM.png> <./images/MultiportDRAM.png> <./images/MultiportSR
-AM.png>]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 113.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 113.
+(babel)             in language append on input line 125.
 <./images/MultiportMEM.png, id=135, 191.71625pt x 191.71625pt>
 File: ./images/MultiportMEM.png Graphic file (type png)
 <use ./images/MultiportMEM.png>
-Package pdftex.def Info: ./images/MultiportMEM.png  used on input line 117.
+Package pdftex.def Info: ./images/MultiportMEM.png  used on input line 129.
 (pdftex.def)             Requested size: 86.2715pt x 86.2715pt.
 <./images/MultibankMEM.png, id=136, 241.90375pt x 251.94125pt>
 File: ./images/MultibankMEM.png Graphic file (type png)
 <use ./images/MultibankMEM.png>
-Package pdftex.def Info: ./images/MultibankMEM.png  used on input line 118.
+Package pdftex.def Info: ./images/MultibankMEM.png  used on input line 130.
 (pdftex.def)             Requested size: 108.85567pt x 113.37251pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 124.
+(babel)             in language append on input line 136.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 124.
+(babel)             in language append on input line 136.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 140.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 128.
-<./images/DDR_SDRAM.png, id=137, 497.86pt x 163.61125pt>
+(babel)             in language append on input line 140.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 140.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 140.
+[4 <./images/SDR_SDRAM.png> <./images/MultiportDRAM.png> <./images/MultiportSRA
+M.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 140.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 140.
+<./images/DDR_SDRAM.png, id=147, 497.86pt x 163.61125pt>
 File: ./images/DDR_SDRAM.png Graphic file (type png)
 <use ./images/DDR_SDRAM.png>
-Package pdftex.def Info: ./images/DDR_SDRAM.png  used on input line 133.
+Package pdftex.def Info: ./images/DDR_SDRAM.png  used on input line 145.
 (pdftex.def)             Requested size: 298.71829pt x 98.1675pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 137.
+(babel)             in language append on input line 149.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 137.
-<./images/DDR2_SDRAM.png, id=138, 491.8375pt x 145.54375pt>
+(babel)             in language append on input line 149.
+<./images/DDR2_SDRAM.png, id=148, 491.8375pt x 145.54375pt>
 File: ./images/DDR2_SDRAM.png Graphic file (type png)
 <use ./images/DDR2_SDRAM.png>
-Package pdftex.def Info: ./images/DDR2_SDRAM.png  used on input line 141.
+Package pdftex.def Info: ./images/DDR2_SDRAM.png  used on input line 153.
 (pdftex.def)             Requested size: 295.10477pt x 87.3269pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 145.
+(babel)             in language append on input line 157.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 145.
-<./images/DDR3_SDRAM.png, id=139, 490.83376pt x 150.5625pt>
+(babel)             in language append on input line 157.
+<./images/DDR3_SDRAM.png, id=149, 490.83376pt x 150.5625pt>
 File: ./images/DDR3_SDRAM.png Graphic file (type png)
 <use ./images/DDR3_SDRAM.png>
-Package pdftex.def Info: ./images/DDR3_SDRAM.png  used on input line 149.
+Package pdftex.def Info: ./images/DDR3_SDRAM.png  used on input line 161.
 (pdftex.def)             Requested size: 294.50252pt x 90.33818pt.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 153.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 153.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 153.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 153.
-[4 <./images/MultiportMEM.png> <./images/MultibankMEM.png>]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 153.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 153.
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 165.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 165.
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 155.
+(babel)             in language append on input line 167.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 155.
+(babel)             in language append on input line 167.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 167.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 167.
+[5 <./images/MultiportMEM.png> <./images/MultibankMEM.png> <./images/DDR_SDRAM.
+png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 167.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 167.
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--174
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--174
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--174
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--174
+Underfull \hbox (badness 10000) in paragraph at lines 168--186
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--174
+Underfull \hbox (badness 10000) in paragraph at lines 168--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--186
 
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 174.
+(babel)             in language append on input line 186.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 174.
+(babel)             in language append on input line 186.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 174.
+(babel)             in language append on input line 186.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 174.
-[5 <./images/DDR_SDRAM.png> <./images/DDR2_SDRAM.png> <./images/DDR3_SDRAM.png>
-]
+(babel)             in language append on input line 186.
+[6 <./images/DDR2_SDRAM.png> <./images/DDR3_SDRAM.png>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 174.
+(babel)             in language append on input line 186.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 174.
-<./images/HBM.png, id=157, 662.475pt x 372.39125pt>
+(babel)             in language append on input line 186.
+<./images/HBM.png, id=167, 662.475pt x 372.39125pt>
 File: ./images/HBM.png Graphic file (type png)
 <use ./images/HBM.png>
-Package pdftex.def Info: ./images/HBM.png  used on input line 178.
+Package pdftex.def Info: ./images/HBM.png  used on input line 190.
 (pdftex.def)             Requested size: 264.9853pt x 148.95386pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 182.
+(babel)             in language append on input line 194.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 182.
+(babel)             in language append on input line 194.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 183.
+(babel)             in language append on input line 195.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 183.
-<./images/2CPUNUMA.png, id=158, 425.59pt x 315.1775pt>
+(babel)             in language append on input line 195.
+<./images/2CPUNUMA.png, id=168, 425.59pt x 315.1775pt>
 File: ./images/2CPUNUMA.png Graphic file (type png)
 <use ./images/2CPUNUMA.png>
-Package pdftex.def Info: ./images/2CPUNUMA.png  used on input line 187.
+Package pdftex.def Info: ./images/2CPUNUMA.png  used on input line 199.
 (pdftex.def)             Requested size: 170.23297pt x 126.06876pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 193.
+(babel)             in language append on input line 205.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 193.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 193.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 193.
-[6 <./images/HBM.png>]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 193.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 193.
-<./images/2CoreUMA.png, id=165, 221.82875pt x 292.09125pt>
+(babel)             in language append on input line 205.
+<./images/2CoreUMA.png, id=169, 221.82875pt x 292.09125pt>
 File: ./images/2CoreUMA.png Graphic file (type png)
 <use ./images/2CoreUMA.png>
-Package pdftex.def Info: ./images/2CoreUMA.png  used on input line 197.
+Package pdftex.def Info: ./images/2CoreUMA.png  used on input line 209.
 (pdftex.def)             Requested size: 88.72992pt x 116.83441pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 203.
+(babel)             in language append on input line 215.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 203.
+(babel)             in language append on input line 215.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 209.
+(babel)             in language append on input line 215.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 209.
+(babel)             in language append on input line 215.
+ [7 <./images/HBM.png> <./images/2CPUNUMA.png>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language append on input line 209.
+(babel)             in language append on input line 215.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language append on input line 209.
- [7 <./images/2CPUNUMA.png> <./images/2CoreUMA.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
-
-(./1_3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 209.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 209.
+(babel)             in language append on input line 215.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 221.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 221.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 221.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 221.
+ [8 <./images/2CoreUMA.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
+ (./1_3.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
 Package rerunfilecheck Info: File `1_3.out' has not changed.
 (rerunfilecheck)             Checksum: 02332EE03CCE125E312E5CB8D3A04BFC;3130.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 209.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
  ) 
 Here is how much of TeX's memory you used:
- 21782 strings out of 492982
- 371456 string characters out of 6134897
- 431698 words of memory out of 5000000
- 24947 multiletter control sequences out of 15000+600000
+ 21797 strings out of 492982
+ 371662 string characters out of 6134897
+ 431842 words of memory out of 5000000
+ 24957 multiletter control sequences out of 15000+600000
  14131 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,54p,1011b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1623,10 +1645,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
 fb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf
 /fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/
 cm-super/sfti1200.pfb>
-Output written on 1_3.pdf (7 pages, 363044 bytes).
+Output written on 1_3.pdf (8 pages, 462442 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
- 171 compressed objects within 2 object streams
- 42 named destinations out of 1000 (max. 500000)
- 262 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 227 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 272 words of extra memory for PDF output out of 10000 (max. 10000000)
 
